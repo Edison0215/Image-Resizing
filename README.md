@@ -6,4 +6,4 @@
 - Store all the images into a directory.
 - Copy the directory path.
 - Paste it in line 14 to replace ```directory path```.
-- Change the dimension of the images in line 16 and 17.
+- Change the dimension of the images in line 17 and 18.
