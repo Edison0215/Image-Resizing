@@ -11,7 +11,7 @@ def resize_images(directory, width, height):
             print(f"Resized image: {filename}")
 
 # Specify the directories where the images are located
-directories = [r"C:\Users\Acer\Desktop\BC TRAIN"]
+directories = [r"directory path"]
 
 # Specify the desired dimensions for the resized images
 width = 360
